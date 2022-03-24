@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#4CAF50</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#C1BFBF</color>
+
+    <color name="textcolor">#13214D</color>
+
+    <color name="colorBottom">#A13949AB</color>
+    <color name="colorButton">#FF03DAC5</color>
+    <color name="colorBrown">#333855</color>
+
+    <color name="colorGreen">#43A047</color>
+    <color name="textColor">#333855</color>
+    <color name="imgborderColor">#B1AFB3</color>
+    <color name="imgbgColor">#A3BB86FC</color>
+
+    <color name="red">#F60E08</color>
+
+    <color name="colorText">#FF000000</color>
+
+
+    <color name="appgrey">#c2c3c3</color>
+
+    <color name="lightGrey">#f4f4f4</color>
+    <color name="grey_2">#F8F7F7</color>
+    <color name="bgcolor">#69d3e6</color>
+    <color name="colorGrey">#696969</color>
+    <color name="lnew">#23dfc7</color>
+    <color name="orange">#fc7500</color>
+    <color name="yellow">#EFDF4E</color>
+    <color name="lightgrey2">#f4f4f4</color>
+
+    <color name="colorPrimary">#ff7003</color>
+    <color name="placeholder_bg">#c2c3c3</color>
+    <color name="item_name">#0c0c0c</color>
+    <color name="description">#1a1a1a</color>
+    <color name="chef">#777</color>
+    <color name="timestamp">#777</color>
+
+    <color name="transparent">#00000000</color>
+</resources>
