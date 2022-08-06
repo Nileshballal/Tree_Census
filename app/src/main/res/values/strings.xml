@@ -9,4 +9,29 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="condition">
+        <item>चांगली</item>
+        <item>सरासरी</item>
+        <item>मृत</item>
+        <item>रोगी</item>
+
+    </string-array>
+
+    <string-array name="ownership">
+        <item>खाजगी</item>
+        <item>सरकारी</item>
+        <item>रोड</item>
+        <item>गार्डन</item>
+
+    </string-array>
+    <string-array name="tree_type">
+        <item>Plant</item>
+        <item>Bush</item>
+        <item>Creeper</item>
+
+    </string-array>
+
+    <string name="google_map_key">AIzaSyD3ONS8gu5RY-Db5shmfI1Fc4NyygBGHSk</string>
+
 </resources>

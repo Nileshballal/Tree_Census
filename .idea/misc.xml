@@ -11,7 +11,9 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.19375" />
-        <entry key="app/src/main/res/layout/tree_details_add_lay.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/googlemap_lay.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/layout/tree_details_add_lay.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/vwb_spinner_text.xml" value="0.18072916666666666" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.135" />
       </map>
     </option>
